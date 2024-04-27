@@ -15,7 +15,7 @@ I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS 
 <h3>⚙️Skills</h3>
 <ul>
 <li>Language: SQL, Python</li>
-<li>Database: PostgreSQL, MySQL</li>
+<li>Database: MySQL</li>
 <li>Visualization: Power BI, Tableau</li>
 <li>Spreadsheet: MS Excel</li></ul>
 
