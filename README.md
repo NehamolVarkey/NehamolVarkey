@@ -1,10 +1,10 @@
 ### Hi there 👋 Introducing myself,
 
-<img width="2000" alt="Coding" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Black%20Technology%20LinkedIn%20Banner%20(5).png">
+<img width="2000" alt="Coding" src="https://github.com/NehamolVarkey/NehamolVarkey/blob/main/bg_profile.png">
 
 
 
-I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI, Tableau, and R.<br>
+I'm Nehamol Varkey, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI, Tableau, and R.<br>
 <ul>
 <li>SQL : Proficient in querying and manipulating data with SQL.</li>
 <li>Python : Utilizes Python for data wrangling and advanced analytics.</li>
@@ -21,11 +21,11 @@ I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS 
 
 <h3>🖇️Projects</h3>
 <ul>
-<li><p>Check out my Project Portfolio: <a href="https://github.com/Mariyajoseph24/Portfolio_Mariya_Joseph">My Projects</a></p></li></ul>
+<li><p>Check out my Project Portfolio: <a href="https://github.com/NehamolVarkey/Portfolio_Nehamol_Varkey">My Projects</a></p></li></ul>
 
 <h3>🕸️Let's Connect</h3>
 <ul>
- <li><a href="https://www.linkedin.com/in/mariya-jos/">Linkedln | Mariya Joseph</a><br></li>
+ <li><a href="https://www.linkedin.com/in/nehamol-varkey-41ab34267">Linkedln | Nehamol Varkey</a><br></li>
 </ul>
 <!--
 **Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
