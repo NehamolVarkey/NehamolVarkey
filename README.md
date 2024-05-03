@@ -1,6 +1,6 @@
 ### Hi there 👋 Introducing myself,
 
-<img width="2000" alt="Coding" src="https://github.com/NehamolVarkey/NehamolVarkey/blob/main/bg_profile.png">
+<img width="2000" alt="Coding" src="https://github.com/NehamolVarkey/NehamolVarkey/blob/main/profile_bg.png">
 
 
 
