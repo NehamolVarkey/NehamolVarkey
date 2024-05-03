@@ -4,7 +4,7 @@
 
 
 
-I'm Nehamol Varkey, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI, Tableau, and R.<br>
+I'm Nehamol Varkey, a passionate Data Scientist with an array of skills in SQL, MS Excel, Python, Power BI, Tableau, and R.<br>
 <ul>
 <li>SQL : Proficient in querying and manipulating data with SQL.</li>
 <li>Python : Utilizes Python for data wrangling and advanced analytics.</li>
